@@ -1,0 +1,1020 @@
+Product Name,Current Inventory Level,Lead Time (in days),Sales Velocity (in units per day),Highest Sales Month,Supplier,Unit Cost,Reorder Point,Safety Stock,Festivals,Supplier Lead Time (in days),Category,Last Restock Date,Next Restock Date
+Sony Alpha a7 III Mirrorless Camera,10,15,1,July,ABC Electronics,1500,20,5,NewYearPeriod,7,Electronics,2023-04-15,2023-05-15
+"
+The North Face Women's Arctic Parka",75,7,3,January,Outdoor Gear Inc.,200,50,10,Republic Day,5,Apparel,2023-04-20,2023-05-20
+"
+Apple AirPods Pro",50,5,5,December,Tech Gadgets Ltd.,200,30,10,Holi_Day,3,Electronics,2023-04-18,2023-05-18
+"
+Bose QuietComfort Earbuds",50,5,5,January,Sound Solutions,250,40,15,GudiPadwa,7,Electronics,2023-04-15,2023-05-15
+"
+Brooks Ghost 13 Running Shoes",200,7,10,February,Performance Footwear,120,50,20,,5,Footwear,2023-04-20,2023-05-20
+"
+Canon EOS 5D Mark IV DSLR Camera",10,15,1,August,Photo World,2500,15,5,Independence Day,7,Electronics,2023-04-15,2023-05-15
+"
+Coleman 8-Person Camping Tent",20,10,2,June,Outdoor Adventures,300,10,5,,7,Outdoor,2023-04-15,2023-05-15
+"
+DJI Osmo Action Camera",10,15,1,July,Camera Drones Inc.,350,25,10,Dushhera,5,Electronics,2023-04-20,2023-05-20
+"
+Fjallraven Kanken Classic Backpack",200,10,7,August,Outdoor Gear Inc.,80,60,15,,7,Accessories,2023-04-15,2023-05-15
+"
+Garmin Forerunner 945 GPS Smartwatch",50,5,5,June,Fitness Tech Ltd.,500,30,10,,3,Electronics,2023-04-18,2023-05-18
+"
+Google Pixel 6 Smartphone",25,7,2,November,Mobile Innovations,800,15,5,,5,Electronics,2023-04-20,2023-05-20
+"
+Herschel Supply Co. Nova Backpack",150,10,7,September,Outdoor Gear Inc.,100,80,20,Dhanteras,7,Accessories,2023-04-15,2023-05-15
+"
+JBL Flip 5 Waterproof Bluetooth Speaker",75,5,5,July,Sound Solutions,100,30,10,,3,Electronics,2023-04-18,2023-05-18
+"
+Lululemon Align Leggings",300,10,12,March,Activewear Emporium,80,100,30,,5,Apparel,2023-04-20,2023-05-20
+"
+Sony Bravia 65"" 4K Smart TV",15,7,2,July,ElectroTech Inc.,1200,10,5,NewYearPeriod,5,Electronics,2023-04-15,2023-05-15
+"
+Nike Air Max 90 Sneakers",50,3,5,September,Footwear World,100,20,10,Ganesh Chaturthi,3,Footwear,2023-04-18,2023-05-18
+"
+Samsung Galaxy S21 Ultra",30,5,3,November,Mobile Mart,1100,15,5,Diwali,7,Electronics,2023-04-20,2023-05-20
+"
+Apple MacBook Pro 16""",10,7,1,December,Apple Store,2000,5,3,Christmas,5,Electronics,2023-04-15,2023-05-15
+"
+Adidas Ultraboost Running Shoes",40,5,4,June,Sports Zone,150,10,5,,7,Footwear,2023-04-18,2023-05-18
+"
+LG 55"" OLED 4K TV",20,7,2,August,Electronics Plus,1800,10,5,GudiPadwa,5,Electronics,2023-04-20,2023-05-20
+"
+Dell XPS 15 Laptop",15,5,2,July,PC World,1800,10,5,Raksha Bandhan,3,Electronics,2023-04-15,2023-05-15
+"
+Canon EOS R5 Mirrorless Camera",8,10,1,October,Camera Corner,3500,5,3,Ganesh Chaturthi,7,Electronics,2023-04-18,2023-05-18
+"
+Nike Air Jordan 1 Retro High OG",25,3,3,May,Sneaker World,200,10,5,,5,Footwear,2023-04-20,2023-05-20
+"
+Bose SoundLink Revolve+ Bluetooth Speaker",35,4,4,December,Sound Solutions,250,10,5,Christmas LastDay,7,Electronics,2023-04-15,2023-05-15
+"
+GoPro HERO10 Black",20,5,3,September,Action Cam Store,400,10,5,,5,Electronics,2023-04-18,2023-05-18
+"
+Patagonia Men's Nano Puff Jacket",50,7,3,November,Outdoor Gear Inc.,180,15,5,,7,Apparel,2023-04-20,2023-05-20
+"
+Fitbit Versa 3 Smartwatch",30,4,4,July,Fitness Solutions,300,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Microsoft Surface Pro 7",12,7,1,June,Microsoft Store,1200,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Samsung QLED Q90T 75"" 4K TV",8,7,1,October,ElectroTech Inc.,2500,5,3,Diwali,5,Electronics,2023-04-15,2023-05-15
+"
+Adidas Stan Smith Sneakers",40,3,4,May,Footwear World,80,10,5,,7,Footwear,2023-04-18,2023-05-18
+"
+Apple iPad Air (2023)",25,5,3,September,Apple Store,900,15,5,Ganesh Chaturthi,7,Electronics,2023-04-20,2023-05-20
+"
+Sony WH-1000XM4 Wireless Headphones",35,4,4,December,Sound Solutions,350,10,5,Christmas LastDay,7,Electronics,2023-04-15,2023-05-15
+"
+DJI Mavic Air 2S Drone",15,7,1,June,Camera Corner,1200,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Nike Air Force 1 Low Sneakers",30,5,2,July,Sneaker World,120,10,5,,3,Footwear,2023-04-15,2023-05-15
+"
+Sony PlayStation 5",10,10,1,October,GameStop,500,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Columbia Men's Watertight II Rain Jacket",50,7,3,November,Outdoor Gear Inc.,100,15,5,,7,Apparel,2023-04-20,2023-05-20
+"
+Bose QuietComfort 35 II Wireless Headphones",40,4,4,December,Sound Solutions,300,10,5,Christmas LastDay,7,Electronics,2023-04-15,2023-05-15
+"
+Garmin Fenix 6X Pro Solar Smartwatch",20,5,3,September,Fitness Solutions,700,10,5,Ganesh Chaturthi,5,Electronics,2023-04-18,2023-05-18
+"
+Patagonia Women's Nano Puff Jacket",35,7,3,November,Outdoor Gear Inc.,180,15,5,,7,Apparel,2023-04-20,2023-05-20
+"
+Apple Watch Series 8",30,4,4,July,Apple Store,600,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+GoPro HERO9 Black",12,7,1,June,Action Cam Store,350,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+The North Face Men's Resolve 2 Jacket",20,10,2,August,Outdoor Adventures,120,10,5,GudiPadwa,7,Apparel,2023-04-15,2023-05-15
+"
+Samsung Galaxy Tab S7",25,5,3,September,ElectroTech Inc.,700,15,5,Diwali,7,Electronics,2023-04-20,2023-05-20
+"
+Adidas UltraBOOST 21 Running Shoes",40,3,4,May,Footwear World,180,10,5,,5,Footwear,2023-04-15,2023-05-15
+"
+Apple iPhone 14 Pro",30,5,3,November,Apple Store,1200,15,5,Ganesh Chaturthi,3,Electronics,2023-04-18,2023-05-18
+"
+Nike Air Max 97 Sneakers",30,5,2,July,Sneaker World,160,10,5,,7,Footwear,2023-04-18,2023-05-18
+"
+Columbia Women's Arcadia II Rain Jacket",50,7,3,November,Outdoor Gear Inc.,80,15,5,,7,Apparel,2023-04-15,2023-05-15
+"
+Patagonia Men's Down Sweater",35,7,3,November,Outdoor Gear Inc.,200,15,5,,5,Apparel,2023-04-15,2023-04-17
+"
+The North Face Women's Resolve 2 Jacket",20,10,2,August,Outdoor Adventures,100,10,5,Holi_Day,5,Apparel,2023-04-15,2023-05-15
+"
+Samsung Galaxy Watch 4",20,5,2,July,ElectroTech Inc.,300,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Nike Air Zoom Pegasus 38 Running Shoes",35,3,4,May,Footwear World,120,10,5,Independence Day,7,Footwear,2023-04-18,2023-05-18
+"
+DJI Mavic Mini 2 Drone",15,7,1,June,Camera Corner,500,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Adidas NMD R1 Sneakers",30,5,2,July,Sneaker World,130,10,5,,3,Footwear,2023-04-15,2023-05-15
+"
+Columbia Men's Steens Mountain 2.0 Fleece",50,7,3,November,Outdoor Gear Inc.,60,15,5,Republic Day,7,Apparel,2023-04-20,2023-05-20
+"
+Bose SoundSport Free Wireless Earbuds",40,4,4,December,Sound Solutions,200,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Garmin Venu 2S Smartwatch",20,5,3,September,Fitness Solutions,400,10,5,Dushhera,7,Electronics,2023-04-20,2023-05-20
+"
+Patagonia Women's Better Sweater",35,7,3,November,Outdoor Gear Inc.,150,15,5,,5,Apparel,2023-04-15,2023-05-15
+"
+Apple AirTag",30,4,4,July,Apple Store,30,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+GoPro HERO8 Black",12,7,1,June,Action Cam Store,300,5,3,Ganesh Chaturthi,5,Electronics,2023-04-20,2023-05-20
+"
+The North Face Men's Resolve Jacket",20,10,2,August,Outdoor Adventures,90,10,5,,3,Apparel,2023-04-15,2023-05-15
+"
+Fitbit Inspire 2 Fitness Tracker",15,5,2,July,Fitness Solutions,100,10,5,Christmas LastDay,7,Electronics,2023-04-20,2023-04-22
+"
+Samsung Galaxy Buds Pro",25,5,3,September,ElectroTech Inc.,180,15,5,GudiPadwa,7,Electronics,2023-04-20,2023-04-21
+"
+DJI Phantom 4 Pro Drone",15,7,1,June,Camera Corner,1500,5,3,,5,Electronics,2023-04-15,2023-05-15
+"
+Adidas Superstar Sneakers",30,5,2,July,Sneaker World,100,10,5,,3,Footwear,2023-04-18,2023-05-18
+"
+Columbia Women's Benton Springs Fleece",50,7,3,November,Outdoor Gear Inc.,50,15,5,Independence Day,7,Apparel,2023-04-15,2023-05-15
+"
+Garmin Forerunner 945 Smartwatch",20,5,3,September,Fitness Solutions,550,10,5,Ganesh Chaturthi,7,Electronics,2023-04-20,2023-05-20
+"
+Patagonia Men's Better Sweater",35,7,3,November,Outdoor Gear Inc.,150,15,5,,5,Apparel,2023-04-15,2023-05-15
+"
+Apple HomePod Mini",30,4,4,July,Apple Store,100,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+The North Face Women's Osito Fleece Jacket",20,10,2,August,Outdoor Adventures,120,10,5,,3,Apparel,2023-04-15,2023-05-15
+"
+Apple AirPods Max",20,5,2,July,Apple Store,550,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Nike Air Force 1 Sneakers",35,3,4,May,Footwear World,100,10,5,Diwali,7,Footwear,2023-04-18,2023-05-18
+"
+Sony BRAVIA OLED TV",30,5,3,November,ElectroTech Inc.,1800,15,5,Holi_Day,5,Electronics,2023-04-20,2023-05-20
+"
+Bose SoundLink Around-Ear Wireless Headphones II",35,4,4,December,Sound Solutions,250,10,5,GudiPadwa,7,Electronics,2023-04-15,2023-04-16
+"
+DJI Ronin-S Gimbal Stabilizer",15,7,1,June,Camera Corner,750,5,3,,5,Electronics,2023-04-18,2023-04-20
+"
+Columbia Men's Glennaker Lake Rain Jacket",50,7,3,November,Outdoor Gear Inc.,50,15,5,,7,Apparel,2023-04-15,2023-05-15
+"
+Garmin Instinct Solar Smartwatch",20,5,3,September,Fitness Solutions,400,10,5,Christmas LastDay,7,Electronics,2023-04-20,2023-05-20
+"
+Patagonia Women's Los Gatos Fleece Jacket",35,7,3,November,Outdoor Gear Inc.,120,15,5,Ganesh Chaturthi,5,Apparel,2023-04-15,2023-05-15
+"
+Apple iPad Air",30,4,4,July,Apple Store,600,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+GoPro MAX",12,7,1,June,Action Cam Store,450,5,3,,5,Electronics,2023-04-20,2023-05-20
+"
+The North Face Men's Gordon Lyons Quarter Zip",20,10,2,August,Outdoor Adventures,80,10,5,,3,Apparel,2023-04-15,2023-05-15
+"
+Nike Epic React Flyknit Running Shoes",30,5,3,September,Footwear World,130,10,5,Republic Day,3,Footwear,2023-04-20,2023-05-20
+"
+LG C1 OLED 4K TV",25,5,3,September,ElectroTech Inc.,2000,15,5,Holi_Day,5,Electronics,2023-04-15,2023-05-15
+"
+JBL Flip 5 Bluetooth Speaker",40,4,4,December,Sound Solutions,100,10,5,,3,Electronics,2023-04-18,2023-05-18
+"
+Nikon D850 DSLR Camera",15,7,1,June,Camera Corner,2800,5,3,GudiPadwa,5,Electronics,2023-04-20,2023-05-20
+"
+Vans Old Skool Sneakers",30,5,2,July,Sneaker World,70,10,5,,7,Footwear,2023-04-15,2023-05-15
+"
+Xbox Series X",10,10,1,October,GameStop,600,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Fitbit Charge 4 Fitness Tracker",20,5,3,September,Fitness Solutions,120,10,5,Christmas LastDay,5,Electronics,2023-04-18,2023-05-18
+"
+Apple Watch Series 7",30,4,4,July,Apple Store,400,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+GoPro Hero9 Black",12,7,1,June,Action Cam Store,400,5,3,Ganesh Chaturthi,5,Electronics,2023-04-18,2023-04-19
+"
+Adidas Essentials 3-Stripes Hoodie",40,5,3,September,Footwear World,50,10,5,,3,Apparel,2023-04-20,2023-05-20
+"
+Jabra Elite 85t True Wireless Earbuds",30,4,4,December,Sound Solutions,200,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Canon EOS 90D DSLR Camera",15,7,1,June,Camera Corner,1300,5,3,Holi_Day,5,Electronics,2023-04-20,2023-05-20
+"
+New Balance Fresh Foam 1080v11 Running Shoes",30,5,2,July,Sneaker World,140,10,5,Independence Day,3,Footwear,2023-04-15,2023-05-15
+"
+Microsoft Surface Pro 8",10,10,1,October,ElectroTech Inc.,1300,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+The North Face Women's Osito 2 Jacket",50,7,3,November,Outdoor Gear Inc.,100,15,5,,7,Apparel,2023-04-20,2023-05-20
+"
+Audio-Technica ATH-M50x Headphones",40,4,4,December,Sound Solutions,150,10,5,Dushhera,3,Electronics,2023-04-15,2023-05-15
+"
+Columbia Women's Benton Springs Fleece Jacket",35,7,3,November,Outdoor Gear Inc.,60,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Apple MacBook Pro 14""",30,4,4,July,Apple Store,2000,10,5,MerryChristmas,3,Electronics,2023-04-15,2023-05-15
+"
+Sony Alpha a7 III Mirrorless Camera",12,7,1,June,Camera Corner,1800,5,3,,5,Electronics,2023-04-18,2023-05-18
+"
+Adidas Originals Superstar Sneakers",30,5,3,September,Footwear World,80,10,5,Holi_Day,3,Footwear,2023-04-20,2023-05-20
+"
+HP Spectre x360 Laptop",25,5,3,September,ElectroTech Inc.,1600,15,5,,5,Electronics,2023-04-15,2023-04-17
+"
+Bose Home Speaker 500",40,4,4,December,Sound Solutions,300,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Fujifilm X-T4 Mirrorless Camera",15,7,1,June,Camera Corner,1700,5,3,Republic Day,5,Electronics,2023-04-20,2023-05-20
+"
+Puma Suede Classic Sneakers",30,5,2,July,Sneaker World,60,10,5,,3,Footwear,2023-04-15,2023-05-15
+"
+Lenovo ThinkPad X1 Carbon",10,10,1,October,ElectroTech Inc.,1800,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Patagonia Men's Better Sweater Jacket",50,7,3,November,Outdoor Gear Inc.,120,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+JBL Charge 5 Bluetooth Speaker",40,4,4,December,Sound Solutions,150,10,5,Dhanteras,3,Electronics,2023-04-15,2023-05-15
+"
+Garmin Forerunner 245 Music",20,5,3,September,Fitness Solutions,300,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+The North Face Men's Apex Bionic 2 Jacket",35,7,3,November,Outdoor Gear Inc.,130,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Sony WF-1000XM4 True Wireless Earbuds",40,4,4,December,Sound Solutions,350,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Columbia Men's Steens Mountain Fleece Vest",35,7,3,November,Outdoor Gear Inc.,40,15,5,NewYearPeriod,5,Apparel,2023-04-20,2023-05-20
+"
+Sony WH-1000XM4 Noise-Canceling Headphones",25,7,2,August,Sound Solutions,350,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Converse Chuck Taylor All Star High-Top Sneakers",30,5,2,July,Sneaker World,70,10,5,GudiPadwa,3,Footwear,2023-04-15,2023-05-15
+"
+HP Envy 13 Laptop",10,10,1,October,ElectroTech Inc.,1400,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+JBL Flip 5 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,100,10,5,Independence Day,3,Electronics,2023-04-15,2023-05-15
+"
+Garmin Fenix 6 Pro",20,5,3,September,Fitness Solutions,600,10,5,Dushhera,7,Electronics,2023-04-18,2023-05-18
+"
+Adidas Ultraboost 21 Running Shoes",40,5,3,September,Footwear World,180,10,5,NewYearPeriod,3,Footwear,2023-04-20,2023-05-20
+"
+Sonos One (Gen 2) Smart Speaker",30,4,4,December,Sound Solutions,200,10,5,GudiPadwa,3,Electronics,2023-04-18,2023-05-18
+"
+Canon EOS R6 Mirrorless Camera",15,7,1,June,Camera Corner,2500,5,3,,5,Electronics,2023-04-20,2023-05-20
+"
+Nike Air Max 270 Sneakers",30,5,2,July,Sneaker World,120,10,5,,3,Footwear,2023-04-15,2023-05-15
+"
+Arc'teryx Atom LT Hooded Jacket",50,7,3,November,Outdoor Gear Inc.,220,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Sony A7 III Mirrorless Camera",20,5,3,September,Camera Corner,2000,10,5,Independence Day,7,Electronics,2023-04-18,2023-05-18
+"
+Patagonia Men's Torrentshell 3L Jacket",35,7,3,November,Outdoor Gear Inc.,150,15,5,Holi_Day,5,Apparel,2023-04-20,2023-05-20
+"
+Apple MacBook Pro",25,7,2,August,ElectroTech Inc.,2500,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Nike Zoom Pegasus 38 Running Shoes",40,5,3,September,Footwear World,150,10,5,Christmas LastDay,3,Footwear,2023-04-20,2023-05-20
+"
+Samsung QLED Q90T Smart TV",20,5,3,September,ElectroTech Inc.,2000,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Nikon Z7 II Mirrorless Camera",15,7,1,June,Camera Corner,3500,5,3,GudiPadwa,5,Electronics,2023-04-20,2023-05-20
+"
+The North Face Men's Venture 2 Jacket",50,7,3,November,Outdoor Gear Inc.,110,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+JBL Pulse 4 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,200,10,5,MerryChristmas,3,Electronics,2023-04-15,2023-05-15
+"
+Sony RX100 VII Compact Camera",20,5,3,September,Camera Corner,1200,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Bose Frames Audio Sunglasses",40,4,4,December,Sound Solutions,250,10,5,NewYearPeriod,3,Electronics,2023-04-15,2023-05-15
+"
+Patagonia Men's Better Sweater Fleece Jacket",35,7,3,November,Outdoor Gear Inc.,120,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Under Armour HOVR Infinite Running Shoes",40,5,3,September,Footwear World,120,10,5,GudiPadwa,3,Footwear,2023-04-20,2023-05-20
+"
+LG OLED CX Series 4K Smart TV",20,5,3,September,ElectroTech Inc.,2500,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Puma RS-X Sneakers",30,5,2,July,Sneaker World,90,10,5,Republic Day,3,Footwear,2023-04-15,2023-05-15
+"
+Lenovo ThinkPad X1 Carbon Laptop",10,10,1,October,ElectroTech Inc.,2000,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Columbia Men's Watertight II Jacket",50,7,3,November,Outdoor Gear Inc.,100,15,5,Christmas LastDay,5,Apparel,2023-04-20,2023-05-20
+"
+Canon EOS M50 Mark II Mirrorless Camera",20,5,3,September,Camera Corner,800,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Reebok Classic Leather Sneakers",35,7,3,November,Footwear World,80,15,5,MerryChristmas,5,Footwear,2023-04-20,2023-05-20
+"
+JBL Charge 4 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,150,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Garmin Fenix 6 Pro Smartwatch",20,5,3,September,Fitness Solutions,650,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Adidas Ultraboost DNA Running Shoes",40,5,3,September,Footwear World,180,10,5,NewYearPeriod,3,Footwear,2023-04-20,2023-05-20
+"
+Sony BRAVIA X900H 4K Smart TV",20,5,3,September,ElectroTech Inc.,1500,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Sonos Move Portable Smart Speaker",30,4,4,December,Sound Solutions,400,10,5,Dushhera,3,Electronics,2023-04-18,2023-05-18
+"
+Bose SoundLink Micro Bluetooth Speaker",40,4,4,December,Sound Solutions,100,10,5,Independence Day,3,Electronics,2023-04-15,2023-05-15
+"
+ASICS Gel-Kayano 28 Running Shoes",35,7,3,November,Footwear World,160,15,5,,5,Footwear,2023-04-20,2023-05-20
+"
+UE BOOM 3 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,200,10,5,GudiPadwa,3,Electronics,2023-04-15,2023-05-15
+"
+Sony BRAVIA A8H OLED 4K Smart TV",20,5,3,September,ElectroTech Inc.,3000,15,5,NewYearPeriod,5,Electronics,2023-04-15,2023-05-15
+"
+Salomon Speedcross 5 Trail Running Shoes",30,5,2,July,Sneaker World,120,10,5,Independence Day,3,Footwear,2023-04-15,2023-05-15
+"
+Microsoft Surface Laptop 4",10,10,1,October,ElectroTech Inc.,1500,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Arc'teryx Beta AR Jacket",50,7,3,November,Outdoor Gear Inc.,500,15,5,,5,Apparel,2023-04-20,2023-04-23
+"
+Brooks Ghost 14 Running Shoes",35,7,3,November,Footwear World,130,15,5,MerryChristmas,5,Footwear,2023-04-20,2023-05-20
+"
+JBL Boombox 2 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,400,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Hoka One One Bondi 7 Running Shoes",30,5,2,July,Sneaker World,160,10,5,,3,Footwear,2023-04-15,2023-05-15
+"
+Columbia Men's Steens Mountain 2.0 Jacket",50,7,3,November,Outdoor Gear Inc.,70,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+JBL Charge 5 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,180,10,5,GudiPadwa,3,Electronics,2023-04-15,2023-05-15
+"
+Under Armour HOVR Phantom 2 Running Shoes",35,7,3,November,Footwear World,140,15,5,,5,Footwear,2023-04-20,2023-05-20
+"
+Garmin Fenix 6 Pro Solar Edition Smartwatch",20,5,3,September,Fitness Solutions,600,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Nike Air Max 270 Shoes",40,5,3,September,Footwear World,120,10,5,NewYearPeriod,3,Footwear,2023-04-20,2023-05-20
+"
+Dell XPS 13 Laptop",20,5,3,September,ElectroTech Inc.,1500,15,5,Holi_Day,5,Electronics,2023-04-15,2023-05-15
+"
+Canon PowerShot G7 X Mark III Camera",15,7,1,June,Camera Corner,700,5,3,,5,Electronics,2023-04-20,2023-05-20
+"
+Arc'teryx Cerium LT Hooded Down Jacket",50,7,3,November,Outdoor Gear Inc.,450,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Sony WH-1000XM4 Wireless Noise-Canceling Headphones",40,4,4,December,Sound Solutions,350,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+ASICS Gel-Nimbus 23 Running Shoes",35,7,3,November,Footwear World,160,15,5,,5,Footwear,2023-04-20,2023-05-20
+"
+Adidas Ultra Boost 21 Running Shoes",40,5,3,September,Footwear World,180,10,5,GudiPadwa,3,Footwear,2023-04-20,2023-05-20
+"
+Samsung QLED Q90T 4K Smart TV",20,5,3,September,ElectroTech Inc.,3000,15,5,Independence Day,5,Electronics,2023-04-15,2023-05-15
+"
+Fujifilm Instax Mini 11 Instant Camera",20,5,3,September,Camera Corner,70,10,5,MerryChristmas,7,Electronics,2023-04-18,2023-05-18
+"
+Apple iPad Pro (12.9-inch)",40,4,4,December,ElectroTech Inc.,1000,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+Samsung Galaxy S21 Ultra 5G",25,7,2,August,ElectroTech Inc.,1200,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+LG OLED C1 4K Smart TV",20,5,3,September,ElectroTech Inc.,2000,15,5,GudiPadwa,5,Electronics,2023-04-15,2023-05-15
+"
+Sennheiser HD 660 S Open-Back Headphones",30,4,4,December,Sound Solutions,500,10,5,,3,Electronics,2023-04-18,2023-05-18
+"
+Hoka One One Clifton 8 Running Shoes",30,5,2,July,Sneaker World,150,10,5,Republic Day,3,Footwear,2023-04-15,2023-05-15
+"
+Lenovo Legion 5 Gaming Laptop",10,10,1,October,ElectroTech Inc.,1600,5,3,Holi_Day,7,Electronics,2023-04-18,2023-05-18
+"
+Bose Frames Alto Audio Sunglasses",40,4,4,December,Sound Solutions,250,10,5,Christmas LastDay,3,Electronics,2023-04-15,2023-05-15
+"
+Olympus OM-D E-M1 Mark III Camera",20,5,3,September,Camera Corner,1800,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Brooks Adrenaline GTS 21 Running Shoes",35,7,3,November,Footwear World,130,15,5,,5,Footwear,2023-04-20,2023-05-20
+"
+Apple MacBook Pro 16-inch",40,4,4,December,ElectroTech Inc.,2000,10,5,Dhanteras,3,Electronics,2023-04-15,2023-05-15
+"
+Fitbit Charge 5 Fitness Tracker",20,5,3,September,Fitness Solutions,200,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Samsung 65-Inch QLED 4K Smart TV",20,5,3,September,ElectroTech Inc.,1499,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+GoPro HERO9 Black Action Camera",40,4,4,December,Camera Corner,349,10,5,Christmas LastDay,3,Electronics,2023-04-15,2023-05-15
+"
+Sony WH-XB900N Wireless Extra Bass Headphones",20,5,3,September,Sound Solutions,199,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+Dell Alienware m15 R4 Gaming Laptop",40,4,4,December,ElectroTech Inc.,2499,10,5,Dhanteras,3,Electronics,2023-04-15,2023-05-15
+"
+The North Face Women's Thermoball Eco Jacket",35,7,3,November,Outdoor Gear Inc.,179,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+LG 65-Inch OLED 4K Smart TV",20,5,3,September,ElectroTech Inc.,1799,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Adidas Ultra Boost DNA Running Shoes",30,5,2,July,Sneaker World,180,10,5,Independence Day,7,Footwear,2023-04-15,2023-05-15
+"
+HP Spectre x360 Convertible Laptop",10,10,1,October,ElectroTech Inc.,1299,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Columbia Men's Bugaboo Interchange Jacket",50,7,3,November,Outdoor Gear Inc.,199,15,5,Dushhera,5,Apparel,2023-04-20,2023-05-20
+"
+Apple MacBook Pro 16-Inch",40,4,4,December,ElectroTech Inc.,2399,10,5,Dhanteras,3,Electronics,2023-04-15,2023-05-15
+"
+Fitbit Charge 4 Fitness and Activity Tracker",20,5,3,September,Fitness Solutions,149,10,5,,7,Electronics,2023-04-18,2023-05-18
+"
+iPhone 13",100,5,10,December,Apple,1000,50,20,Christmas,7,Electronics,2023-04-25,2023-05-10
+"
+Nike Air Max 270",50,7,5,July,Nike,120,30,15,Summer Sale,10,Apparel,2023-04-28,2023-05-15
+"
+Instant Pot Duo Nova",200,3,15,November,Instant Brands,80,80,30,Thanksgiving,5,Home Goods,2023-04-20,2023-05-05
+"
+iPhone 12",75,5,8,October,Apple,900,40,15,Halloween,7,Electronics,2023-04-23,2023-05-08
+"
+Samsung Galaxy S21",60,7,6,March,Samsung,950,35,12,Summer Sale,9,Electronics,2023-04-26,2023-05-13
+"
+Adidas Ultraboost",40,5,4,May,Adidas,150,30,10,Summer Sale,7,Apparel,2023-04-25,2023-05-10
+"
+Amazon Echo Dot",100,3,20,November,Amazon,50,50,10,Thanksgiving,5,Electronics,2023-04-20,2023-05-05
+"
+Canon EOS Rebel T7i",80,5,10,December,Canon,700,40,10,Christmas,7,Electronics,2023-04-23,2023-05-08
+"
+Fitbit Charge 4",65,7,8,January,Fitbit,150,35,8,New Year,10,Electronics,2023-04-26,2023-05-13
+"
+KitchenAid Stand Mixer",50,5,6,December,KitchenAid,300,30,5,Christmas,7,Home Goods,2023-04-25,2023-05-10
+"
+Bose QuietComfort 35 II",40,7,5,October,Bose,250,25,6,Halloween,9,Electronics,2023-04-28,2023-05-15
+"
+Samsung 55-inch 4K TV",30,7,5,November,Samsung,800,20,6,Thanksgiving,10,Electronics,2023-04-20,2023-05-05
+"
+Nike Air Jordan 1",70,5,8,June,Nike,200,35,8,Summer Sale,7,Apparel,2023-04-26,2023-05-13
+"
+Instant Pot Duo Plus",55,5,6,November,Instant Brands,100,30,5,Thanksgiving,7,Home Goods,2023-04-25,2023-05-10
+"
+Lenovo Yoga C940",40,10,4,July,Lenovo,1300,20,5,Summer Sale,14,Electronics,2023-04-28,2023-05-15
+"
+Amazon Kindle Paperwhite",30,7,4,October,Amazon,120,15,4,Halloween,9,Electronics,2023-04-30,2023-05-17
+"
+Vitamix Blender",20,7,3,December,Vitamix,400,10,3,Christmas,10,Home Goods,2023-04-23,2023-05-08
+"
+DJI Mavic Air 2",50,5,8,June,DJI,900,35,10,Summer Sale,7,Electronics,2023-04-26,2023-05-13
+"
+JBL Flip 5 Speaker",25,7,3,July,JBL,80,12,4,Summer Sale,9,Electronics,2023-04-30,2023-05-17
+"
+Samsung 27-inch Monitor",45,5,9,October,Samsung,300,20,5,Halloween,7,Electronics,2023-04-20,2023-05-05
+"
+Canon EOS R5",40,7,6,November,Canon,3500,25,8,Thanksgiving,9,Electronics,2023-04-23,2023-05-08
+"
+Nintendo Switch",30,7,5,December,Nintendo,300,20,6,Christmas,10,Electronics,2023-04-26,2023-05-13
+"
+Bose SoundLink Revolve",25,5,5,September,Bose,200,12,4,Back to School,7,Electronics,2023-04-25,2023-05-10
+"
+Keurig Coffee Maker",40,5,8,December,Keurig,100,20,5,Christmas,7,Home Goods,2023-04-30,2023-05-17
+"
+Sony Alpha a7 III",35,7,5,October,Sony,2000,25,6,Halloween,10,Electronics,2023-04-20,2023-05-05
+"
+LG 55-Inch NanoCell 4K Smart TV",20,5,3,September,ElectroTech Inc.,1299,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Sony WF-1000XM4 Wireless Earbuds",30,4,4,December,Sound Solutions,279,10,5,Christmas LastDay,3,Electronics,2023-04-18,2023-05-18
+"
+Nike Air Jordan 1 Retro High OG Sneakers",30,5,2,July,Sneaker World,200,10,5,,7,Footwear,2023-04-15,2023-05-15
+"
+Lenovo Yoga C940 2-in-1 Laptop",10,10,1,October,ElectroTech Inc.,1399,5,3,Republic Day,7,Electronics,2023-04-18,2023-05-18
+"
+Garmin Forerunner 245 Music Smartwatch",20,5,3,September,Fitness Solutions,299,10,5,MerryChristmas,7,Electronics,2023-04-18,2023-05-18
+"
+Patagonia Women's Better Sweater Fleece Jacket",35,7,3,November,Outdoor Gear Inc.,139,15,5,,5,Apparel,2023-04-20,2023-05-20
+"
+Apple iPad Pro (11-inch)",25,7,2,August,ElectroTech Inc.,799,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+Samsung QLED 75-Inch 4K Smart TV",20,5,3,September,ElectroTech Inc.,2999,15,5,,5,Electronics,2023-04-15,2023-05-15
+"
+Sony WH-1000XM3 Wireless Noise-Canceling Headphones",30,4,4,December,Sound Solutions,299,10,5,Independence Day,3,Electronics,2023-04-18,2023-05-18
+"
+HP ENVY x360 Convertible Laptop",10,10,1,October,ElectroTech Inc.,999,5,3,,7,Electronics,2023-04-18,2023-05-18
+"
+JBL Xtreme 3 Portable Bluetooth Speaker",40,4,4,December,Sound Solutions,349,10,5,,3,Electronics,2023-04-15,2023-05-15
+"
+The North Face Men's Apex Bionic Jacket",35,7,3,November,Outdoor Gear Inc.,149,15,5,GudiPadwa,5,Apparel,2023-04-20,2023-05-20
+"
+Puma RS-X Cubed Sneakers",30,5,3,September,Puma Store,99,10,5,Independence Day,7,Shoes,2023-04-15,2023-05-15
+"
+Under Armour HOVR Sonic 4 Running Shoes",20,5,3,September,Under Armour Store,120,10,5,Dushhera,7,Shoes,2023-04-20,2023-05-20
+"
+Reebok Nano X1 Training Shoes",30,5,2,July,Reebok Store,130,10,5,Holi_Day,5,Shoes,2023-04-15,2023-05-15
+"
+Mizuno Wave Rider 25 Running Shoes",20,5,3,September,Mizuno Outlet,139,10,5,,7,Shoes,2023-04-18,2023-05-18
+"
+Nike Metcon 6 Training Shoes",35,7,3,November,Nike Official Store,150,15,5,Christmas LastDay,5,Shoes,2023-04-18,2023-05-18
+"
+Adidas Stan Smith Vegan Sneakers",40,4,4,December,Adidas Outlet,100,10,5,,3,Shoes,2023-04-15,2023-05-15
+"
+Puma Future Rider Sneakers",30,5,2,July,Puma Store,79,10,5,,7,Shoes,2023-04-18,2023-05-18
+"
+New Balance Fresh Foam X Vongo v5 Running Shoes",35,7,3,November,New Balance Outlet,129,15,5,GudiPadwa,5,Shoes,2023-04-20,2023-05-20
+"
+Nike React Infinity Run Flyknit 2 Running Shoes",25,7,2,August,Nike Official Store,159,5,3,,7,Shoes,2023-04-18,2023-05-18
+"
+Adidas SolarBoost 3 Running Shoes",40,5,4,October,Adidas Outlet,160,10,5,Republic Day,3,Shoes,2023-04-20,2023-05-20
+"
+Puma RS-Fast Heritage Sneakers",30,5,3,September,Puma Store,109,10,5,Holi_Day,7,Shoes,2023-04-15,2023-05-15
+"
+New Balance Fresh Foam 1080v12 Running Shoes",35,7,3,November,New Balance Outlet,159,15,5,,5,Shoes,2023-04-18,2023-05-18
+"
+Under Armour HOVR Machina 2 Running Shoes",20,5,3,September,Under Armour Store,150,10,5,Independence Day,7,Shoes,2023-04-20,2023-05-20
+"
+Brooks Glycerin 19 Running Shoes",40,4,4,December,Brooks Official Store,150,10,5,,3,Shoes,2023-04-15,2023-05-15
+"
+ASICS GT-2000 10 Running Shoes",25,7,2,August,ASICS Outlet,129,5,3,,7,Shoes,2023-04-18,2023-05-18
+"
+Reebok Nano X Cross Training Shoes",30,5,2,July,Reebok Store,129,10,5,GudiPadwa,5,Shoes,2023-04-15,2023-05-15
+"
+Mizuno Wave Sky Neo Running Shoes",20,5,3,September,Mizuno Outlet,159,10,5,,7,Shoes,2023-04-18,2023-05-18
+"
+Salomon XA Pro 3D V8 Trail Running Shoes",25,7,2,August,Salomon Store,140,5,3,,5,Shoes,2023-04-20,2023-05-20
+"
+Nike Free Metcon 4 Training Shoes",35,7,3,November,Nike Official Store,130,15,5,,5,Shoes,2023-04-18,2023-05-18
+"
+Puma Clyde Court Basketball Shoes",30,5,2,July,Puma Store,109,10,5,Republic Day,7,Shoes,2023-04-18,2023-05-18
+"
+New Balance FuelCell Rebel v2 Running Shoes",35,7,3,November,New Balance Outlet,129,15,5,Holi_Day,5,Shoes,2023-04-20,2023-05-20
+"
+Nike Air Zoom Structure 23 Running Shoes",30,7,3,September,Nike Official Store,139,10,5,,5,Shoes,2023-04-18,2023-05-18
+"
+Puma RS-2K Tech Sneakers",25,5,3,September,Puma Store,99,10,5,NewYearPeriod,7,Shoes,2023-04-15,2023-05-15
+"
+New Balance Fresh Foam 880v11 Running Shoes",40,7,3,November,New Balance Outlet,129,15,5,,5,Shoes,2023-04-18,2023-05-18
+"
+Under Armour Charged Pursuit 2 Running Shoes",20,5,3,September,Under Armour Store,80,10,5,Independence Day,7,Shoes,2023-04-20,2023-05-20
+"
+Brooks Adrenaline GTS 23 Running Shoes",35,4,4,December,Brooks Official Store,150,10,5,,3,Shoes,2023-04-15,2023-05-15
+"
+ASICS Gel-Cumulus 23 Running Shoes",30,7,2,August,ASICS Outlet,149,5,3,,7,Shoes,2023-04-18,2023-05-18
+"
+Reebok Zig Kinetica II Sneakers",25,5,2,July,Reebok Store,120,10,5,GudiPadwa,5,Shoes,2023-04-15,2023-05-15
+"
+Mizuno Wave Inspire 18 Running Shoes",40,7,3,November,Mizuno Outlet,139,15,5,Republic Day,7,Shoes,2023-04-18,2023-05-18
+"
+Salomon Sense Ride 4 Trail Running Shoes",30,5,2,August,Salomon Store,140,10,5,,5,Shoes,2023-04-20,2023-05-20
+"
+Nike Air Zoom Winflo 8 Running Shoes",35,7,3,November,Nike Official Store,120,15,5,Holi_Day,5,Shoes,2023-04-18,2023-05-18
+"
+Adidas Stan Smith Primegreen Sneakers",40,4,4,December,Adidas Outlet,100,10,5,,3,Shoes,2023-04-15,2023-05-15
+"
+Puma RS-X Mixtape Sneakers",30,5,2,July,Puma Store,89,10,5,,7,Shoes,2023-04-18,2023-05-18
+"
+New Balance Fresh Foam More v3 Running Shoes",35,7,3,November,New Balance Outlet,139,15,5,Christmas LastDay,5,Shoes,2023-04-20,
+"
+Tommy Hilfiger Men's Classic Fit Polo Shirt",50,5,8,July,Tommy Hilfiger Store,59,20,10,Independence Day,7,Shirts,2023-04-20,2023-05-20
+"
+Ralph Lauren Men's Custom Slim Fit T-Shirt",45,3,10,August,Ralph Lauren Outlet,49,15,8,,5,Shirts,2023-04-18,2023-05-18
+"
+Calvin Klein Men's Slim Fit Dress Shirt",60,5,7,September,Calvin Klein Store,79,25,12,GudiPadwa,7,Shirts,2023-04-15,2023-05-15
+"
+Hugo Boss Men's Regular Fit Oxford Shirt",55,4,9,October,Hugo Boss Official Store,89,20,10,,3,Shirts,2023-04-20,2023-05-20
+"
+Gucci Men's Logo Embroidered Polo Shirt",50,5,8,July,Gucci Store,249,20,10,,7,Shirts,2023-04-18,2023-05-18
+"
+Armani Exchange Men's Slim Fit V-Neck T-Shirt",40,3,10,August,Armani Exchange Outlet,39,15,8,Republic Day,5,Shirts,2023-04-15,2023-05-15
+"
+Versace Men's Medusa Head Print Shirt",55,4,9,October,Versace Outlet,179,20,10,,7,Shirts,2023-04-20,2023-05-20
+"
+Dolce & Gabbana Men's Floral Print Silk Shirt",50,5,8,July,Dolce & Gabbana Store,399,20,10,Holi_Day,3,Shirts,2023-04-18,2023-05-18
+"
+Burberry Men's Check Print Button-Up Shirt",45,3,10,August,Burberry Official Store,229,15,8,,5,Shirts,2023-04-15,2023-05-15
+"
+Prada Men's Striped Cotton Shirt",60,5,7,September,Prada Store,329,25,12,,7,Shirts,2023-04-20,2023-05-20
+"
+Louis Vuitton Men's Logo Print T-Shirt",55,4,9,October,Louis Vuitton Outlet,349,20,10,,3,Shirts,2023-04-15,2023-05-15
+"
+GAP Men's Classic Crewneck T-Shirt",50,5,8,July,GAP Store,19,20,10,NewYearPeriod,5,Shirts,2023-04-18,2023-05-18
+"
+Banana Republic Men's Slim-Fit Shirt",45,3,10,August,Banana Republic Outlet,79,15,8,,7,Shirts,2023-04-15,2023-05-15
+"
+H&M Men's Slim Fit Plaid Shirt",50,5,8,July,H&M Store,29,20,10,,5,Shirts,2023-04-18,2023-05-18
+"
+Uniqlo Men's Linen Button-Up Shirt",45,3,10,August,Uniqlo Outlet,39,15,8,,7,Shirts,2023-04-15,2023-05-15
+"
+J.Crew Men's Classic Fit Oxford Shirt",60,5,7,September,J.Crew Store,59,25,12,Christmas LastDay,3,Shirts,2023-04-20,2023-05-20
+"
+Topman Men's Floral Print Shirt",55,4,9,October,Topman Outlet,49,20,10,,5,Shirts,2023-04-18,2023-05-18
+"
+Forever 21 Men's Graphic Print T-Shirt",50,5,8,July,Forever 21 Store,19,20,10,,7,Shirts,2023-04-15,2023-05-15
+"
+Zalando Men's Slim Fit Chambray Shirt",40,3,10,August,Zalando Outlet,39,15,8,,5,Shirts,2023-04-18,2023-05-18
+"
+Mango Men's Linen-Blend Shirt",55,4,9,October,Mango Outlet,49,20,10,,7,Shirts,2023-04-20,2023-05-20
+"
+Urban Outfitters Men's Oversized Flannel Shirt",50,5,8,July,Urban Outfitters Store,59,20,10,Republic Day,3,Shirts,2023-04-18,2023-05-18
+"
+ASOS Men's Slim Fit Striped Shirt",45,3,10,August,ASOS Outlet,39,15,8,,5,Shirts,2023-04-15,2023-05-15
+"
+Macy's Men's Classic Fit Dress Shirt",60,5,7,September,Macy's Store,69,25,12,,7,Shirts,2023-04-20,2023-05-20
+"
+Target Men's Button-Down Shirt",55,4,9,October,Target Outlet,29,20,10,,3,Shirts,2023-04-15,2023-05-15
+"
+Old Navy Men's Slim-Fit Flannel Shirt",50,5,8,July,Old Navy Store,39,20,10,,5,Shirts,2023-04-18,2023-05-18
+"
+Express Men's Printed Short Sleeve Shirt",45,3,10,August,Express Outlet,49,15,8,,7,Shirts,2023-04-15,2023-05-15
+"
+Gap Men's Linen-Blend Shirt",60,5,7,September,Gap Outlet,49,25,12,,7,Shirts,2023-04-20,2023-05-20
+"
+Lacoste Men's Piqué Polo Shirt",50,5,8,July,Lacoste Store,89,20,10,Independence Day,7,Shirts,2023-04-18,2023-05-18
+"
+Polo Ralph Lauren Men's Oxford Shirt",45,3,10,August,Polo Ralph Lauren Outlet,99,15,8,Republic Day,5,Shirts,2023-04-15,2023-05-15
+"
+Tommy Bahama Men's Floral Print Shirt",60,5,7,September,Tommy Bahama Store,79,25,12,Holi_Day,7,Shirts,2023-04-20,2023-05-20
+"
+GAP Men's Essential Crewneck T-Shirt",55,4,9,October,GAP Store,19,20,10,,3,Shirts,2023-04-15,2023-05-15
+"
+Banana Republic Men's Linen Shirt",50,5,8,July,Banana Republic Outlet,69,20,10,,5,Shirts,2023-04-18,2023-05-18
+"
+H&M Men's Printed Short Sleeve Shirt",45,3,10,August,H&M Store,29,15,8,GudiPadwa,7,Shirts,2023-04-15,2023-05-15
+"
+Uniqlo Men's Flannel Button-Up Shirt",60,5,7,September,Uniqlo Outlet,39,25,12,NewYearPeriod,5,Shirts,2023-04-20,2023-05-20
+"
+J.Crew Men's Slim Fit Chambray Shirt",55,4,9,October,J.Crew Store,59,20,10,Republic Day,7,Shirts,2023-04-18,2023-05-18
+"
+Zara Men's Oversized Shirt",50,5,8,July,Zara Store,39,20,10,Holi_Day,3,Shirts,2023-04-15,2023-05-15
+"
+Mango Men's Slim Fit Denim Shirt",45,3,10,August,Mango Outlet,49,15,8,GudiPadwa,5,Shirts,2023-04-15,2023-05-15
+"
+Urban Outfitters Men's Classic Fit Oxford Shirt",60,5,7,September,Urban Outfitters Store,59,25,12,,7,Shirts,2023-04-20,2023-05-20
+"
+ASOS Men's Printed Button-Up Shirt",55,4,9,October,ASOS Outlet,39,20,10,Independence Day,3,Shirts,2023-04-15,2023-05-15
+"
+Macy's Men's Slim-Fit Dress Shirt",50,5,8,July,Macy's Store,69,20,10,,5,Shirts,2023-04-18,2023-05-18
+"
+Target Men's Plaid Flannel Shirt",45,3,10,August,Target Outlet,29,15,8,Dushhera,7,Shirts,2023-04-15,2023-05-15
+"
+Levi's 501 Original Fit Jeans",50,5,8,July,Levi's Store,79,20,10,,5,Men's Fashion,2023-04-18,2023-04-20
+"
+Ray-Ban Classic Aviator Sunglasses",45,3,10,August,Ray-Ban Store,149,15,8,,7,Men's Fashion,2023-04-15,2023-04-17
+"
+Ralph Lauren Polo Shirt",55,4,9,October,Ralph Lauren Outlet,59,20,10,Dhanteras,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Timberland Classic Boots",50,5,8,July,Timberland Store,129,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Calvin Klein Boxer Briefs",45,3,10,August,Calvin Klein Outlet,29,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Hugo Boss Dress Shirt",60,5,7,September,Hugo Boss Store,99,25,12,NewYearPeriod,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Tommy Hilfiger Denim Jacket",55,4,9,October,Tommy Hilfiger Outlet,119,20,10,Ganesh Chaturthi,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Puma Essential Sweatpants",50,5,8,July,Puma Store,49,20,10,Diwali,3,Men's Fashion,2023-04-15,2023-05-15
+"
+New Balance Running Shoes",45,3,10,August,New Balance Outlet,79,15,8,Christmas,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Gucci Leather Belt",60,5,7,September,Gucci Store,199,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Under Armour Performance Polo",55,4,9,October,Under Armour Store,69,20,10,GudiPadwa,3,Men's Fashion,2023-04-18,2023-05-18
+"
+Columbia Fleece Jacket",50,5,8,July,Columbia Outlet,89,20,10,Raksha Bandhan,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Nautica Polo Shirt",60,5,7,September,Nautica Outlet,49,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Armani Exchange Leather Jacket",50,5,8,July,Armani Exchange Store,299,20,10,Christmas LastDay,5,Men's Fashion,2023-04-18,2023-05-18
+"
+H&M Slim Fit Chinos",45,3,10,August,H&M Store,39,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Nike Air Max Sneakers",60,5,7,September,Nike Store,129,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Zara Basic T-Shirt",55,4,9,October,Zara Store,19,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Tom Ford Aviator Sunglasses",50,5,8,July,Tom Ford Store,349,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+GAP Classic Polo Shirt",45,3,10,August,GAP Store,29,15,8,Diwali,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Diesel Slim Fit Jeans",60,5,7,September,Diesel Store,159,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Polo Ralph Lauren Hoodie",55,4,9,October,Polo Ralph Lauren Outlet,89,20,10,Ganesh Chaturthi,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Lacoste Pique Polo Shirt",50,5,8,July,Lacoste Store,89,20,10,Christmas LastDay,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Converse Chuck Taylor Sneakers",45,3,10,August,Converse Store,59,15,8,,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Burberry Check Shirt",60,5,7,September,Burberry Store,249,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Ted Baker Dress Shoes",55,4,9,October,Ted Baker Store,199,20,10,,3,Men's Fashion,2023-04-18,2023-05-18
+"
+Ralph Lauren Cable Knit Sweater",50,5,8,July,Ralph Lauren Outlet,119,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Dockers Classic Khaki Pants",45,3,10,August,Dockers Store,59,15,8,Christmas LastDay,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Salvatore Ferragamo Belt",60,5,7,September,Ferragamo Store,349,25,12,Ganesh Chaturthi,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Hugo Boss Suit",50,5,8,July,Hugo Boss Store,699,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Gucci Loafers",45,3,10,August,Gucci Store,599,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Versace Silk Tie",60,5,7,September,Versace Store,249,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Prada Leather Wallet",55,4,9,October,Prada Store,299,20,10,GudiPadwa,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Calvin Klein Dress Shirt",50,5,8,July,Calvin Klein Outlet,79,20,10,Diwali,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Tommy Hilfiger Sweater",45,3,10,August,Tommy Hilfiger Outlet,89,15,8,,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Under Armour Training Shorts",60,5,7,September,Under Armour Store,49,25,12,Ganesh Chaturthi,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Ralph Lauren Oxford Shirt",55,4,9,October,Ralph Lauren Outlet,69,20,10,Christmas LastDay,3,Men's Fashion,2023-04-18,2023-05-18
+"
+Puma Track Jacket",50,5,8,July,Puma Store,59,20,10,GudiPadwa,5,Men's Fashion,2023-04-18,2023-05-18
+"
+New Balance Walking Shoes",45,3,10,August,New Balance Outlet,79,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Lacoste Polo Sweater",60,5,7,September,Lacoste Store,119,25,12,Raksha Bandhan,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Levi's Trucker Jacket",55,4,9,October,Levi's Store,99,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Nike Tech Fleece Pants",50,5,8,July,Nike Store,79,20,10,Dhanteras,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Armani Exchange Graphic T-Shirt",45,3,10,August,Armani Exchange Store,49,15,8,Independence Day,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Zara Leather Belt",60,5,7,September,Zara Store,39,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+H&M Plaid Flannel Shirt",50,5,8,July,H&M Store,29,20,10,Ganesh Chaturthi,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Adidas Track Pants",45,3,10,August,Adidas Store,49,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Zara Linen Blazer",60,5,7,September,Zara Store,89,25,12,Holi_Day,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Polo Ralph Lauren Oxford Shoes",55,4,9,October,Polo Ralph Lauren Outlet,149,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+GAP Classic V-Neck Sweater",50,5,8,July,GAP Store,39,20,10,Independence Day,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Nike Dri-FIT Polo Shirt",45,3,10,August,Nike Store,59,15,8,GudiPadwa,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Tom Ford Leather Jacket",60,5,7,September,Tom Ford Store,899,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Gucci Silk Scarf",55,4,9,October,Gucci Store,399,20,10,,3,Men's Fashion,2023-04-18,2023-05-18
+"
+Versace Medusa Belt",50,5,8,July,Versace Store,499,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Prada Loafers",45,3,10,August,Prada Store,699,15,8,Holi_Day,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Tommy Hilfiger Button-Up Shirt",55,4,9,October,Tommy Hilfiger Outlet,79,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Under Armour Hoodie",50,5,8,July,Under Armour Store,69,20,10,Dushhera,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Ralph Lauren Polo Cap",45,3,10,August,Ralph Lauren Outlet,49,15,8,,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Puma Running Shoes",60,5,7,September,Puma Store,79,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Levi's Denim Jacket",50,5,8,July,Levi's Store,99,20,10,Ganesh Chaturthi,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Hugo Boss Dress Pants",45,3,10,August,Hugo Boss Store,149,15,8,,7,Men's Fashion,2023-04-15,2023-05-15
+"
+Gucci Belt",60,5,7,September,Gucci Store,399,25,12,Christmas LastDay,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Prada Sunglasses",55,4,9,October,Prada Store,299,20,10,GudiPadwa,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Calvin Klein Leather Jacket",50,5,8,July,Calvin Klein Outlet,199,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Tommy Hilfiger Chinos",45,3,10,August,Tommy Hilfiger Outlet,79,15,8,Dhanteras,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Under Armour Compression Shirt",60,5,7,September,Under Armour Store,39,25,12,Republic Day,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Ralph Lauren Varsity Jacket",55,4,9,October,Ralph Lauren Outlet,129,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Puma Basketball Shorts",50,5,8,July,Puma Store,49,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+New Balance Running Tights",45,3,10,August,New Balance Outlet,59,15,8,,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Lacoste Leather Sneakers",60,5,7,September,Lacoste Store,169,25,12,Independence Day,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Armani Exchange Watch",55,4,9,October,Armani Exchange Store,249,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Zara Linen Shirt",50,5,8,July,Zara Store,59,20,10,Ganesh Chaturthi,3,Men's Fashion,2023-04-15,2023-05-15
+"
+H&M Slim Fit Shirt",50,5,8,July,H&M Store,29,20,10,Holi_Day,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Burberry Polo Shirt",60,5,7,September,Burberry Store,149,25,12,GudiPadwa,7,Men's Fashion,2023-04-20,2023-05-20
+"
+GAP Denim Shorts",55,4,9,October,GAP Store,49,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Louis Vuitton Wallet",50,5,8,July,Louis Vuitton Store,299,20,10,Dhanteras,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Polo Ralph Lauren Sweater",45,3,10,August,Polo Ralph Lauren Store,129,15,8,Republic Day,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Boss Hugo Boss Suit",55,4,9,October,Boss Hugo Boss Store,499,20,10,,5,Men's Fashion,2023-04-18,2023-05-18
+"
+Uniqlo V-Neck Sweater",50,5,8,July,Uniqlo Store,39,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Oakley Sunglasses",45,3,10,August,Oakley Store,129,15,8,Independence Day,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Tom Ford Dress Shirt",60,5,7,September,Tom Ford Store,299,25,12,,7,Men's Fashion,2023-04-20,2023-05-20
+"
+Zegna Silk Pocket Square",50,5,8,July,Zegna Store,79,20,10,,3,Men's Fashion,2023-04-15,2023-05-15
+"
+Fendi Belt",45,3,10,August,Fendi Store,399,15,8,,5,Men's Fashion,2023-04-15,2023-05-15
+"
+Zara Floral Dress",40,4,8,July,Zara Store,59,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Ruffle Blouse",35,3,9,August,H&M Store,29,10,5,,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Denim Jacket",50,5,7,September,Forever 21 Store,39,20,10,Diwali,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Mango High Waisted Shorts",45,4,8,October,Mango Store,49,15,5,Holi_Day,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Victoria's Secret Lingerie Set",30,3,9,November,Victoria's Secret Store,69,10,5,GudiPadwa,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Zalando Maxi Skirt",40,4,8,July,Zalando Store,39,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Wide Leg Trousers",35,3,9,August,ASOS Store,49,10,5,Independence Day,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Topshop Crop Top",50,5,7,September,Topshop Store,29,20,10,Dhanteras,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Free People Boho Dress",45,4,8,October,Free People Store,79,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Urban Outfitters Graphic Tee",30,3,9,November,Urban Outfitters Store,29,10,5,,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Zara Skinny Jeans",40,4,8,July,Zara Store,49,15,5,Christmas LastDay,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Maxi Dress",35,3,9,August,H&M Store,39,10,5,Ganesh Chaturthi,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Floral Romper",50,5,7,September,Forever 21 Store,39,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Mango Blazer",45,4,8,October,Mango Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Victoria's Secret Pajama Set",30,3,9,November,Victoria's Secret Store,59,10,5,,7,Women's Fashion,2023-04-15,2023-05-15
+"
+H&M Lace Midi Dress",30,4,6,July,H&M Store,49,10,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Forever 21 Floral Skirt",40,3,8,August,Forever 21 Store,29,15,5,Republic Day,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Mango Striped Blouse",35,5,7,September,Mango Store,39,20,10,Holi_Day,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zara Wide Leg Jumpsuit",50,4,8,October,Zara Store,59,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Off-Shoulder Top",45,3,9,November,ASOS Store,49,10,5,GudiPadwa,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Free People Boho Kimono",30,5,7,December,Free People Store,79,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Urban Outfitters Mom Jeans",40,4,8,January,Urban Outfitters Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Zalando Pleated Skirt",35,3,9,February,Zalando Store,39,10,5,Dhanteras,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Topshop Wrap Blouse",50,5,7,March,Topshop Store,29,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Forever 21 Denim Shorts",45,4,8,April,Forever 21 Store,39,15,5,Christmas LastDay,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Mango Striped Maxi Dress",30,3,9,May,Mango Store,69,10,5,,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Zara Ruffle Top",40,4,8,June,Zara Store,49,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Linen Pants",35,3,9,July,H&M Store,39,10,5,Ganesh Chaturthi,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Knit Sweater",50,5,7,August,Forever 21 Store,29,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Mango Wrap Skirt",45,4,8,September,Mango Store,69,15,5,NewYearPeriod,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Floral Maxi Dress",30,4,6,July,ASOS Store,59,10,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Topshop Embroidered Jacket",40,3,8,August,Topshop Store,79,15,5,Republic Day,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zalando Wide Leg Trousers",35,5,7,September,Zalando Store,69,20,10,,7,Women's Fashion,2023-04-20,2023-04-21
+"
+H&M Off-Shoulder Blouse",50,4,8,October,H&M Store,49,15,5,Holi_Day,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Forever 21 Denim Skirt",45,3,9,November,Forever 21 Store,39,10,5,Independence Day,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Mango Lace Midi Dress",30,5,7,December,Mango Store,79,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zara Striped Blazer",40,4,8,January,Zara Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Ruffle Hem Top",35,3,9,February,ASOS Store,49,10,5,Dushhera,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Topshop Suede Skirt",50,5,7,March,Topshop Store,59,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zalando Floral Jumpsuit",45,4,8,April,Zalando Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Striped Shirt Dress",30,3,9,May,H&M Store,59,10,5,MerryChristmas,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Wrap Top",40,4,8,June,Forever 21 Store,39,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Mango Pleated Midi Skirt",35,3,9,July,Mango Store,69,10,5,Christmas LastDay,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zara Floral Print Blouse",50,5,7,August,Zara Store,49,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+ASOS Wide Leg Jumpsuit",45,4,8,September,ASOS Store,79,15,5,Holi_Day,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Floral Print Maxi Dress",30,4,6,July,ASOS Store,89,10,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Topshop Lace Trim Blouse",40,3,8,August,Topshop Store,59,15,5,,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zalando Wide Leg Jumpsuit",35,5,7,September,Zalando Store,79,20,10,Republic Day,7,Women's Fashion,2023-04-20,2023-05-20
+"
+H&M Striped Wrap Skirt",50,4,8,October,H&M Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Zara Off-Shoulder Jumpsuit",40,4,8,January,Zara Store,79,15,5,Dhanteras,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Striped T-shirt Dress",35,3,9,February,ASOS Store,39,10,5,,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Topshop Belted Midi Dress",50,5,7,March,Topshop Store,89,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zalando Floral Print Blouse",45,4,8,April,Zalando Store,59,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Ruffled Wrap Dress",30,3,9,May,H&M Store,89,10,5,,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Striped Crop Top",40,4,8,June,Forever 21 Store,49,15,5,NewYearPeriod,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Mango Off-Shoulder Jumpsuit",35,3,9,July,Mango Store,69,10,5,,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zara Floral Print Wrap Skirt",50,5,7,August,Zara Store,79,20,10,Republic Day,7,Women's Fashion,2023-04-20,2023-05-20
+"
+ASOS Sequin Mini Dress",30,4,6,July,ASOS Store,129,10,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Topshop Crochet Top",40,3,8,August,Topshop Store,69,15,5,Holi_Day,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zalando Pleated Maxi Skirt",35,5,7,September,Zalando Store,99,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Mango Off-Shoulder Top",30,5,7,December,Mango Store,49,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zara Printed Midi Dress",40,4,8,January,Zara Store,89,15,5,Independence Day,5,Women's Fashion,2023-04-16,2023-05-16
+"
+ASOS Striped Wide Leg Pants",35,3,9,February,ASOS Store,69,10,5,Dushhera,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Topshop Ruffled Blouse",50,5,7,March,Topshop Store,59,20,10,,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Zalando Lace Mini Skirt",45,4,8,April,Zalando Store,69,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+H&M Floral Print Dress",30,3,9,May,H&M Store,89,10,5,,7,Women's Fashion,2023-04-15,2023-05-15
+"
+Forever 21 Striped Jumpsuit",40,4,8,June,Forever 21 Store,79,15,5,,5,Women's Fashion,2023-04-16,2023-05-16
+"
+Mango Polka Dot Midi Skirt",35,3,9,July,Mango Store,59,10,5,,3,Women's Fashion,2023-04-15,2023-05-15
+"
+Zara Belted Trench Coat",50,5,7,August,Zara Store,109,20,10,NewYearPeriod,7,Women's Fashion,2023-04-20,2023-05-20
+"
+Carter's Printed Onesie",30,4,6,July,Carter's Store,19,10,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+GAP Denim Overalls",40,3,8,August,GAP Store,39,15,5,GudiPadwa,3,Kids' Wear,2023-04-15,2023-05-15
+"
+OshKosh B'gosh Dress",35,5,7,September,OshKosh Store,29,20,10,,7,Kids' Wear,2023-04-20,2023-05-20
+"
+H&M Graphic T-Shirt",50,4,8,October,H&M Store,9,15,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+Zara Printed Leggings",45,3,9,November,Zara Store,19,10,5,Republic Day,7,Kids' Wear,2023-04-15,2023-05-15
+"
+Old Navy Hooded Sweatshirt",30,5,7,December,Old Navy Store,29,20,10,,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Crazy 8 Plaid Shirt",40,4,8,January,Crazy 8 Store,19,15,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+Gymboree Floral Skirt",35,3,9,February,Gymboree Store,24,10,5,Independence Day,3,Kids' Wear,2023-04-15,2023-05-15
+"
+Children's Place Printed Dress",50,5,7,March,Children's Place Store,29,20,10,,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Janie and Jack Sweater",45,4,8,April,Janie and Jack Store,39,15,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+Carter's Denim Shorts",30,3,9,May,Carter's Store,19,10,5,,7,Kids' Wear,2023-04-15,2023-05-15
+"
+GAP Striped Romper",40,4,8,June,GAP Store,29,15,5,Holi_Day,5,Kids' Wear,2023-04-16,2023-05-16
+"
+OshKosh B'gosh Printed Top",35,3,9,July,OshKosh Store,19,10,5,,3,Kids' Wear,2023-04-15,2023-05-15
+"
+H&M Denim Jacket",50,5,7,August,H&M Store,39,20,10,Christmas LastDay,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Zara Knit Cardigan",45,4,8,September,Zara Store,29,15,5,,5,Kids' Wear,2023-04-16,2023-04-17
+"
+Disney Princess Dress",25,3,5,July,Disney Store,25,10,5,,5,Kids' Wear,2023-04-15,2023-05-15
+"
+Puma Graphic T-Shirt",35,4,7,October,Puma Store,20,15,5,,3,Kids' Wear,2023-04-15,2023-04-17
+"
+Tommy Hilfiger Polo Shirt",50,3,9,November,Tommy Hilfiger Store,45,10,5,,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Ralph Lauren Denim Shorts",45,4,8,December,Ralph Lauren Store,40,15,5,MerryChristmas,5,Kids' Wear,2023-04-16,2023-05-16
+"
+Columbia Waterproof Jacket",30,5,7,January,Columbia Store,70,20,10,,7,Kids' Wear,2023-04-15,2023-05-15
+"
+The North Face Hoodie",40,4,8,February,The North Face Store,65,15,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+Under Armour Leggings",35,3,9,March,Under Armour Store,30,10,5,NewYearPeriod,3,Kids' Wear,2023-04-15,2023-05-15
+"
+GapKids Graphic Sweatshirt",50,5,7,April,GapKids Store,25,20,10,Republic Day,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Carter's Pajama Set",45,4,8,May,Carter's Store,20,15,5,,5,Kids' Wear,2023-04-16,2023-05-16
+"
+H&M Printed Leggings",30,3,9,June,H&M Store,15,10,5,,7,Kids' Wear,2023-04-15,2023-05-15
+"
+Zara Denim Skirt",40,4,8,July,Zara Store,30,15,5,GudiPadwa,5,Kids' Wear,2023-04-16,2023-05-16
+"
+OshKosh B'gosh Hooded Jacket",35,3,9,August,OshKosh Store,35,10,5,,3,Kids' Wear,2023-04-15,2023-04-17
+"
+Old Navy Graphic Tank Top",50,5,7,September,Old Navy Store,18,20,10,Independence Day,7,Kids' Wear,2023-04-20,2023-05-20
+"
+Digital Thermometer",50,2,15,January,Medical Supply Co.,10,20,5,,2,Healthcare,2023-04-01,2023-05-01
+"
+Pulse Oximeter",30,3,10,February,HealthTech Solutions,35,15,5,,3,Healthcare,2023-04-05,2023-05-05
+"
+N95 Respirator Masks",100,5,20,March,Protective Gear Inc.,5,30,10,,5,Healthcare,2023-03-25,2023-04-25
+"
+Disposable Gloves",200,1,30,April,Medical Supply Co.,2,50,10,,1,Healthcare,2023-04-10,2023-05-10
+"
+Hand Sanitizer",150,1,25,May,CleanHands Inc.,8,30,10,,1,Healthcare,2023-04-02,2023-05-02
+"
+First Aid Kit",40,3,10,June,MediAid Solutions,25,15,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Antibacterial Wipes",80,2,20,July,CleanHands Inc.,5,25,5,,2,Healthcare,2023-04-03,2023-05-03
+"
+Medical Face Shields",60,4,15,August,Protective Gear Inc.,10,20,5,,4,Healthcare,2023-04-08,2023-05-08
+"
+Infrared Forehead Thermometer",50,2,15,September,HealthTech Solutions,30,20,5,,2,Healthcare,2023-04-01,2023-05-01
+"
+Pain Relief Gel",70,3,20,October,PharmaRelief,15,25,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Antiseptic Mouthwash",90,2,25,November,Oral Care Ltd.,12,30,10,,2,Healthcare,2023-04-04,2023-05-04
+"
+Eye Drops",100,1,30,December,PharmaVision,8,30,10,,1,Healthcare,2023-04-10,2023-05-10
+"
+Blood Pressure Monitor",40,3,10,January,HealthTech Solutions,50,15,5,,3,Healthcare,2023-04-05,2023-05-05
+"
+Multivitamin Supplements",60,2,20,February,PharmaVitamins,20,25,5,,2,Healthcare,2023-04-03,2023-05-03
+"
+Nasal Spray",80,1,25,March,PharmaRelief,10,30,10,,1,Healthcare,2023-04-09,2023-05-09
+"
+Wound Dressing",70,3,20,April,MediAid Solutions,15,25,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Dental Floss",200,1,30,May,Oral Care Ltd.,2,50,10,,1,Healthcare,2023-04-10,2023-05-10
+"
+Compression Socks",100,2,20,June,Healthy Legs Inc.,15,30,10,,2,Healthcare,2023-04-05,2023-05-05
+"
+Hot/Cold Pack",150,1,25,July,MediAid Solutions,8,30,10,,1,Healthcare,2023-04-02,2023-05-02
+"
+Nebulizer Machine",30,3,10,August,HealthTech Solutions,40,15,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Anti-Itch Cream",80,2,20,September,PharmaRelief,10,25,5,,2,Healthcare,2023-04-03,2023-05-03
+"
+Digestive Enzymes",100,1,30,October,PharmaVitamins,12,30,10,,1,Healthcare,2023-04-09,2023-05-09
+"
+Allergy Relief Tablets",70,3,10,November,PharmaRelief,8,20,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Surgical Masks",200,1,30,December,Protective Gear Inc.,2,50,10,,1,Healthcare,2023-04-10,2023-05-10
+"
+Eye Mask",50,2,15,January,Healthy Eyes Inc.,10,20,5,,2,Healthcare,2023-04-01,2023-05-01
+"
+Hand Cream",30,3,10,February,PharmaBeauty,35,15,5,,3,Healthcare,2023-04-05,2023-05-05
+"
+Throat Lozenges",100,5,20,March,PharmaRelief,5,30,10,,5,Healthcare,2023-03-25,2023-04-25
+"
+Prenatal Vitamins",200,1,30,April,PharmaVitamins,8,30,10,,1,Healthcare,2023-04-02,2023-05-02
+"
+Motion Sickness Bands",40,3,10,May,MediAid Solutions,25,15,5,,3,Healthcare,2023-04-06,2023-05-06
+"
+Diabetic Test Strips",80,2,20,June,HealthTech Solutions,5,25,5,,2,Healthcare,2023-04-03,2023-05-03
+"
+Muscle Rub",60,4,15,July,PharmaRelief,10,20,5,,4,Healthcare,2023-04-08,2023-05-08

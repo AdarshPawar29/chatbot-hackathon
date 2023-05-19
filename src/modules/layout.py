@@ -8,7 +8,7 @@ class Layout:
         """
         st.markdown(
             """
-            <h1 style='text-align: center;'> Upload your file and ask anything! 🐳</h1>
+            <h1 style='text-align: center;'> Upload your file and ask any questions about it! 🐳</h1>
             """,
             unsafe_allow_html=True,
         )
